@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="plano">
+    <file>plano_red2.png</file>
+    <file>plano_red.png</file>
+  </qresource>
+</RCC>
